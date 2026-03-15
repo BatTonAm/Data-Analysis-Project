@@ -1,5 +1,5 @@
 /*
-Script of DDL(Data Define Language) for source file folder CRM and ERP
+Script of DDL(Data Define Language) for source file folder CRM and ERP in bronze layer.
 WARNING: If existed corresponding table in database, data stored in that table will be dropped and replaced. Proceed with cautions
 and make sure to have backup properly ready.
 */
