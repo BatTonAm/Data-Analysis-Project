@@ -14,7 +14,7 @@ The system integrates data from **CRM and ERP sources** to support analytical an
 
 ## 🏗️ Architecture
 
-![Architecture](Project%20Data%20Architecture%20Final.png)
+![Architecture](images/Project%20Data%20Architecture%20Final.png)
 
 ### Description
 
@@ -28,7 +28,7 @@ The system integrates data from **CRM and ERP sources** to support analytical an
 
 ## 🔄 Data Pipeline (Bronze → Silver → Gold)
 
-![Data Flow](Data%20Flow%20Diagram.png)
+![Data Flow](images/Data%20Flow%20Diagram.png)
 
 ### Flow Explanation
 
@@ -49,7 +49,7 @@ The system integrates data from **CRM and ERP sources** to support analytical an
 
 ## 🔗 Integration Model
 
-![Integration Model](Integration%20Diagram.png)
+![Integration Model](images/Integration%20Diagram.png)
 
 ### Description
 
@@ -65,7 +65,7 @@ The system integrates data from **CRM and ERP sources** to support analytical an
 
 ## ⭐ Data Mart (Star Schema)
 
-![Star Schema](STAR%20schema.png)
+![Star Schema](images/STAR%20schema.png)
 
 ### Description
 
