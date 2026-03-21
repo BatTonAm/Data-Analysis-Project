@@ -14,7 +14,7 @@ The system integrates data from **CRM and ERP sources** to support analytical an
 
 ## 🏗️ Architecture
 
-![Architecture](Project_Data_Architecture_Final.png)
+![Architecture](Project%20Data%20Architecture%20Final.png)
 
 ### Description
 
