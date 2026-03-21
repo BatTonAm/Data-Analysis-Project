@@ -95,7 +95,7 @@ The system integrates data from **CRM and ERP sources** to support analytical an
 - SQL Server  
 - ETL (SQL-based transformations)  
 - Data Modeling (Star Schema)  
-- GitHub  
+- GitHub & Git for Version control
 
 ---
 
