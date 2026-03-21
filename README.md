@@ -103,5 +103,7 @@ The system integrates data from **CRM and ERP sources** to support analytical an
 
 **Van Dung PHAM**  
 Business Analytics Student  
-Data Engineering & Analytics Enthusiast
+
+## Credit
+Sources and Guidelines from Data with Baraa
 
