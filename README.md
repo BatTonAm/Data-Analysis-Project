@@ -6,7 +6,7 @@ This project implements a **modern data warehouse pipeline** using a layered arc
 
 - **Bronze Layer** → Raw data ingestion  
 - **Silver Layer** → Cleaned & standardized data  
-- **Gold Layer** → Business-ready data (star schema)  
+- **Golden Layer** → Business-ready data (star schema)  
 
 The system integrates data from **CRM and ERP sources** to support analytical and reporting use cases.
 
@@ -80,22 +80,13 @@ The system integrates data from **CRM and ERP sources** to support analytical an
 
 ---
 
-## 🚀 Key Features
-
-- End-to-end **ETL pipeline**
-- Multi-source integration (**CRM + ERP**)
-- Layered architecture (**Bronze / Silver / Gold**)
-- Star schema for analytics
-- Ready for **Power BI / Tableau / ML use cases**
-
----
-
 ## 🛠️ Tech Stack
 
 - SQL Server  
 - ETL (SQL-based transformations)  
 - Data Modeling (Star Schema)  
 - GitHub & Git for Version control
+- Draw.io for Drawing Diagram
 
 ---
 
