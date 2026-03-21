@@ -1,3 +1,5 @@
+### NOTE: for anyone who will use this project, please save the dataset as C:\data_analysis_project\datasets.
+
 # 📊 Data Warehouse Project – Sales Analytics
 
 ## 📌 Overview
