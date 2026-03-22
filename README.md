@@ -1,7 +1,7 @@
 ### NOTE: 
 for anyone who will use this project, please save the dataset as C:\data_analysis_project\datasets.
 
-# 📊 Data Warehouse Project – Sales Analytics
+# 📊 Data Analysis Project
 
 ## 📌 Overview
 
@@ -12,6 +12,7 @@ This project implements a **modern data warehouse pipeline** using a layered arc
 - **Golden Layer** → Business-ready data (star schema)  
 
 The system integrates data from **CRM and ERP sources** to support analytical and reporting use cases.
+Then we implement analysis to evaluate performance and create reports regarding customer and product dimensions.
 
 ---
 
@@ -93,12 +94,21 @@ The system integrates data from **CRM and ERP sources** to support analytical an
 
 ---
 
-## 📈 Use Cases
-
-- Sales performance analysis  
-- Customer segmentation  
-- Product profitability  
-- Time-based trend analysis  
+## Analysis
+The analysis is divided into three key areas:
+🔹 Sales Performance Analysis
+Sales Performance Analysis
+Evaluate overall revenue trends over time
+Measure key metrics such as total sales, order volume, and quantity sold
+Identify seasonal patterns and business growth trends
+🔹 Customer Insights
+Analyze customer demographics (e.g., age, lifecycle)
+Track customer purchasing behavior and lifespan
+Segment customers based on spending patterns and engagement
+🔹 Product Performance
+Identify top-performing and underperforming products
+Compare product sales against average benchmarks
+Understand product demand and contribution to total revenue
 
 ---
 
