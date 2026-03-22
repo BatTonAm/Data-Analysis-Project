@@ -96,19 +96,22 @@ Then we implement analysis to evaluate performance and create reports regarding 
 
 ## Analysis
 The analysis is divided into three key areas:
-🔹 Sales Performance Analysis
-Sales Performance Analysis
-Evaluate overall revenue trends over time
-Measure key metrics such as total sales, order volume, and quantity sold
-Identify seasonal patterns and business growth trends
-🔹 Customer Insights
-Analyze customer demographics (e.g., age, lifecycle)
-Track customer purchasing behavior and lifespan
-Segment customers based on spending patterns and engagement
-🔹 Product Performance
-Identify top-performing and underperforming products
-Compare product sales against average benchmarks
-Understand product demand and contribution to total revenue
+
+### 🔹 Sales Performance Analysis
+- Sales Performance Analysis
+- Evaluate overall revenue trends over time
+- Measure key metrics such as total sales, order volume, and quantity sold
+- Identify seasonal patterns and business growth trends
+
+### 🔹 Customer Insights
+- Analyze customer demographics (e.g., age, lifecycle)
+- Track customer purchasing behavior and lifespan
+- Segment customers based on spending patterns and engagement
+
+### 🔹 Product Performance
+- Identify top-performing and underperforming products
+- Compare product sales against average benchmarks
+- Understand product demand and contribution to total revenue
 
 ---
 
